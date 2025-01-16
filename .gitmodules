@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/TwilightWei/submodule.git
+	branch = develop
